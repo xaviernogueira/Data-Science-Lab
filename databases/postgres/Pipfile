@@ -5,7 +5,6 @@ name = "pypi"
 
 [packages]
 pydantic = "*"
-psycopg2 = "*"
 pandas = "*"
 jupyterlab = "*"
 jupyterlab-lsp = "*"
@@ -17,4 +16,4 @@ ipywidgets = "*"
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.11"
