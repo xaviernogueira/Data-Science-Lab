@@ -12,6 +12,8 @@ python-lsp-server = "*"
 numpy = "*"
 jupysql = "*"
 ipywidgets = "*"
+charset-normalizer = "*"
+chardet = "*"
 
 [dev-packages]
 
