@@ -17,6 +17,7 @@ chardet = "*"
 psycopg2-binary = "*"
 polars = "*"
 connectorx = "*"
+sqlalchemy = "*"
 
 [dev-packages]
 
