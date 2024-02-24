@@ -16,10 +16,11 @@ ipykernel = "*"
 chardet = "*"
 psycopg2-binary = "*"
 polars = "*"
-connectorx = "*"
 sqlalchemy = "*"
+pyarrow = "*"
+xarray = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.11"
+python_version = "3.12"
