@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "dc49b1461b9a8894fcd0f1d99b30d3969de8afd178fef1c08710c909cd1a95f2"
+            "sha256": "f2d34f46bc7c15d1aa106abb4fd63bfc8666693d515f1bbe3fab4cd843cf90fd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -1319,6 +1319,13 @@
             "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==1.26.4"
+        },
+        "osgeo": {
+            "hashes": [
+                "sha256:ece1d8fc360ef21cbee39744413d87eb779723a84b28757b0a4ced98dbd398b5"
+            ],
+            "index": "pypi",
+            "version": "==0.0.1"
         },
         "overrides": {
             "hashes": [
