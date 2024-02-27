@@ -23,6 +23,9 @@ rioxarray = "*"
 rio-cogeo = "*"
 dask = "*"
 kerchunk = "*"
+earthaccess = "*"
+geojson-pydantic = "*"
+geoparquet-pydantic = "*"
 
 [dev-packages]
 
