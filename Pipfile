@@ -19,6 +19,10 @@ polars = "*"
 sqlalchemy = "*"
 pyarrow = "*"
 xarray = "*"
+rioxarray = "*"
+rio-cogeo = "*"
+dask = "*"
+kerchunk = "*"
 
 [dev-packages]
 
